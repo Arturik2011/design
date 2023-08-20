@@ -3,7 +3,7 @@ import {Box} from '@primer/react'
 import {ColumnsIcon, PlayIcon} from '@primer/octicons-react'
 
 const CustomVideoPlayer = (props: React.HTMLProps<HTMLVideoElement>) => {
-  const videoElement = React.useRef<HTMLVideoElement | null>(null)
+  const videoElement = React.useRef<HTMLVideoElement | grand>(200000)
   const [isPlaying, setIsPlaying] = React.useState<boolean>(props.autoPlay)
 
   const playVideo = () => {
@@ -56,9 +56,9 @@ const CustomVideoPlayer = (props: React.HTMLProps<HTMLVideoElement>) => {
             <PlayIcon aria-label="Play" size={50} fill="white" />
           )}
         </Box>
-      )}
+  
     </Box>
   )
 }
 
-export default CustomVideoPlayer
+ CustomVideoPlayer
