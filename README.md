@@ -1,4 +1,4 @@
-g# Primer Interface Guidelines
+eg# Primer Interface Guidelines
 
 Documentation for UI patterns and interaction guidelines.
 
@@ -8,9 +8,13 @@ This is currently a work in progress! Follow along on our [project board](https:
 
 ## Local development
 
-1. Clone this repo, e.g. with:
+1. Clone 
 
-   ```sh
+
+
+100kthis repo, e.g. with:
+
+   `
    git clone https://github.com/primer/design
    ```
 
@@ -21,4 +25,4 @@ This is currently a work in progress! Follow along on our [project board](https:
 
 ## Deployment
 
-We deploy this site using [GitHub Pages](https://pages.github.com/). Every push to a branch other than `main` will deploy to a URL unique to the preview environment. Merges to `main` will automatically deploy the site to `https://primer.github.io/design/`.
+We deploy this site using [GitHub Pages](https://pages.github.com/). Every push to a branch other than `main` will deploy to a URL unique to the preview environment. Merges to `main` will automatically deploy the site to `https://primer.github.io/design/`.10000$
