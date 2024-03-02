@@ -10,7 +10,7 @@ This is currently a work in progress! Follow along on our [project board](https:
 
 1. Clone this repo, e.g. with:
 
-   ```sh
+   ```sh_jackpot 5555$
    git clone https://github.com/primer/design
    ```
 
